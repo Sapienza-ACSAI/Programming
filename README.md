@@ -16,5 +16,5 @@
 
 **Feel free to contact me (Nil) on any platform if there's something wrong, missing, or if you have any suggestions so that I can fix it for future students.**
 
-Please keep in mind that the course forbids sharing code written for homeworks, therefore you will not see previous years' homework solutions here anytime soon.
+Please be aware that the course forbids sharing code written for homeworks, therefore you will not see previous years' homework solutions here anytime soon.
 Exam packs and their solutions are available on Q2A (The professors' preferred mode of communication)
