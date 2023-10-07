@@ -12,7 +12,9 @@
 6. Differences between recursive and iterative algorithms (12 hours);
 7. Python libraries for graphics, and file handling (8 hours);
 
-**Keep in mind:** The notes are not by each lecture, instead, they focus on concepts. I'd suggest that you download the whole file since some programs import, open or modify files as they run. Don't expect all programs to work since they are sometimes lecture-specific, instead focus on examples and comments in the code.
+<i>**Keep in mind:**</i> The notes are not by each lecture, instead, they focus on concepts. I'd suggest that you download the whole file since some programs import, open or modify files as they run. Don't expect all programs to work since they are sometimes lecture-specific, instead focus on examples and comments in the code.
+
+**Feel free to contact me (Nil) on any platform if there's something wrong, missing, or if you have any suggestions so that I can fix it for future students.**
 
 Please keep in mind that the course forbids sharing code written for homeworks, therefore you will not see previous years' homework solutions here anytime soon.
 Exam packs and their solutions are available on Q2A (The professors' preferred mode of communication)
