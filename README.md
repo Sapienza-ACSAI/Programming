@@ -1,5 +1,5 @@
 <h1 align="center">Programming (Python)</h1>
-<p align="center"><i>Taught by prof. Mancini and prof. Spognardi in the a.y. 22/23</i></p>
+<p align="center"><i>Taught by Prof. Maurizio Mancini and Prof. Angelo Spognardi in the a.y. 22/23</i></p>
 
 **Recordings for previous year(s):** https://q2a.di.uniroma1.it/25057/unit-2-log-of-the-lectures?course=course-info/programming-ay22-23
 
