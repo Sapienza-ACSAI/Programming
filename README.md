@@ -15,3 +15,11 @@
 
 Please keep in mind that the course forbids sharing code written for homeworks, therefore you will not be seeing previous years' homework solutions here anytime soon.
 Exam packs and their solutions are available on Q2A (The professors' prefered mode of communication)
+
+## Course syllabus
+
+1. **Numeric systems** (binary, decimal and hexadecimal systems);
+2. **Logics** (gates, Boolean algebra and truth tables);
+3. **Sequential circuits** (latches, flip-flops, FSMs);
+4. **Digital Building Blocks** (arithmetic circuits, more complex circuits);
+5. **Hardware Description Languages** (SystemVerilog)
